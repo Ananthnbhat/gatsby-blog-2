@@ -4,6 +4,7 @@ require(`dotenv`).config({
 
 module.exports = {
   siteMetadata: {
+    siteTitle: `Lalitalaxmi`,
     siteTitleAlt: `Minimal Blog - Gatsby Theme`,
   },
   plugins: [
@@ -18,6 +19,10 @@ module.exports = {
           {
             title: `About`,
             slug: `/about`,
+          },
+          {
+            title: `Contact`,
+            slug: `/contact`,
           },
         ],
         externalLinks: [
