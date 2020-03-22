@@ -5,7 +5,7 @@ require(`dotenv`).config({
 module.exports = {
   siteMetadata: {
     siteTitle: `Lalitalaxmi`,
-    siteTitleAlt: `Minimal Blog - Gatsby Theme`,
+    siteTitleAlt: `Minimal Blog by Lalitalaxmi`,
   },
   plugins: [
     {
@@ -28,11 +28,11 @@ module.exports = {
         externalLinks: [
           {
             name: `Twitter`,
-            url: `https://twitter.com/lekoarts_de`,
+            url: `https://twitter.com/Lalitalaxmibhat`,
           },
           {
-            name: `Instagram`,
-            url: `https://www.instagram.com/lekoarts.de/`,
+            name: `Facebook`,
+            url: `https://www.facebook.com/people/Lalitalaxmi-Bhat/100010376881288`,
           },
         ],
       },
@@ -49,7 +49,7 @@ module.exports = {
       options: {
         name: `minimal-blog - @lekoarts/gatsby-theme-minimal-blog`,
         short_name: `minimal-blog`,
-        description: `Typography driven, feature-rich blogging theme with minimal aesthetics. Includes tags/categories support and extensive features for code blocks such as live preview, line numbers, and code highlighting.`,
+        description: `Lalitalaxmi's blog`,
         start_url: `/`,
         background_color: `#fff`,
         theme_color: `#6B46C1`,
