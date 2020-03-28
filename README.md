@@ -198,10 +198,6 @@ To edit the projects part below "Latest posts", create a file at `src/@lekoarts/
 
 The `static` folder contains the icons, social media images and robots.txt. Don't forget to change these files, too!
 
-## 🤔 Questions or problems?
-
-Please open up an issue on the main repository: [LekoArts/gatsby-themes](https://github.com/LekoArts/gatsby-themes). Thanks!
-
 ## 🎓 Learning Gatsby
 
 Looking for more guidance? Full documentation for Gatsby lives [on Gatsby's website](https://www.gatsbyjs.org/).
@@ -216,10 +212,4 @@ Looking for more guidance? Full documentation for Gatsby lives [on Gatsby's webs
 
 - **To dive straight into code samples, head [to Gatsby's documentation](https://www.gatsbyjs.org/docs/).** In particular, check out the _Reference Guides_ and _Gatsby API_ sections in the sidebar.
 
-## 🌟 Supporting me
-
-Thanks for using this project! I'm always interested in seeing what people do with my projects, so don't hesitate to tag me on [Twitter](https://twitter.com/lekoarts_de) and share the project with me.
-
-Please star this project, share it on Social Media or consider supporting me on [Patreon](https://www.patreon.com/lekoarts)!
-
-If you want to hire me for **contract/freelance work**, you can do so! [Get in touch with me!](https://www.lekoarts.de/en/contact)
+Cheers!
