@@ -47,7 +47,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `minimal-blog - @lekoarts/gatsby-theme-minimal-blog`,
+        name: `minimal-blog by Ananth Bhat`,
         short_name: `minimal-blog`,
         description: `Lalitalaxmi's blog`,
         start_url: `/`,

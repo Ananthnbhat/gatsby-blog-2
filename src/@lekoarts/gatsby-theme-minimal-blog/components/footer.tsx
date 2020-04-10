@@ -24,7 +24,7 @@ const Footer = () => {
         &copy; {new Date().getFullYear()} by {siteTitle}. All rights reserved.
       </div>
       <div>
-        Developed with ♥︎ by Ananth
+        Developed with ♥︎ by <a rel="noreferrer noopener" target="_blank" href="https://twitter.com/ananthnbhat">Ananth</a>
       </div>
     </footer>
   )
